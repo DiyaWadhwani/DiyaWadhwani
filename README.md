@@ -10,9 +10,16 @@ I am currently pursuing a Master of Science in Computer Science at Northeastern 
 - 🌱 I’m currently learning Kotlin, advanced full-stack development techniques, and MongoDB
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions
 - 💬 Ask me about algorithms, mobile app development, and web development
-- 📫 How to reach me: [wadhwani.d@northeastern.edu](mailto:wadhwani.d@northeastern.edu) OR [wadhwanidiya23@gmail.com](mailto:wadhwanidiya23@gmail.com)
+- 📫 How to reach me: [wadhwani.d@northeastern.edu](mailto:wadhwani.d@northeastern.edu) OR 
 - 📄 [Check out my portfolio](https://wadhwanid.sites.northeastern.edu)
 - ⚡ Fun fact: I love creating mobile applications
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/diya-wadhwani)
+- [Gmail][wadhwani.d@northeastern.edu](mailto:wadhwani.d@northeastern.edu)
+- [Outlook][wadhwanidiya23@gmail.com](mailto:wadhwanidiya23@gmail.com)
 
 ## Technical Knowledge
 
@@ -75,8 +82,4 @@ I am currently pursuing a Master of Science in Computer Science at Northeastern 
 - **President and Founder**, Junoon, Northeastern University, Oakland, 2023 – Present
 - **Technical Manager**, Google Developer Groups On Campus, Northeastern University, Oakland, Present
 - **Graduate Student Chair**, Associated Students of Northeastern University, Oakland, Present
-- **TEDx MSRIT Publicity Head**, 2019 – 2020
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/diya-wadhwani)
+- **Publicity Head**, TEDx MSRIT, MS Ramaiah Institute of Technology, Karnataka, 2019 – 2020
