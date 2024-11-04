@@ -46,6 +46,7 @@ I am currently pursuing a Master of Science in Computer Science at Northeastern 
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Webflow-%234500EF.svg?style=for-the-badge&logo=webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### IDEs
@@ -56,6 +57,7 @@ I am currently pursuing a Master of Science in Computer Science at Northeastern 
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB%20Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DB%20Browser-%23000357.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
 
 ## Projects
