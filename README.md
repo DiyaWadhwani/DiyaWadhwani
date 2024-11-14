@@ -72,7 +72,7 @@ I am currently pursuing a Master of Science in Computer Science at Northeastern 
 - [**JobJunction (April 2024)**](https://github.com/DiyaWadhwani/JobJunction): Developed a full-stack application using React for job listings, featuring user login and profile management with Prisma and Express backend. Deployed on Vercel and Render.
 - [**RecipeHub (March 2024)**](https://github.com/DiyaWadhwani/RecipeHub-FunctionalReact): Created a React-based website allowing users to view, create, modify, and fork recipes, utilizing Firebase for backend and deployment.
 - [**Shopping Cart Application (March 2024)**](https://github.com/DiyaWadhwani/ShoppingCartApplication-React): Built a React shopping cart application for browsing, adding, editing, and deleting products, using Firebase for backend operations and deployment.
-- [**MoodMaster (Dec 2023)**](https://github.com/DiyaWadhwani/ShoppingCartApplication-React): Developed an iOS mobile app to help users manage their moods through reading excerpts and journaling, powered by Firebase backend.
+- [**MoodMaster (Dec 2023)**](https://github.com/DiyaWadhwani/MoodMaster): Developed an iOS mobile app to help users manage their moods through reading excerpts and journaling, powered by Firebase backend.
 - [**Metro Run Application (July 2021)**](https://drive.google.com/file/d/1rQZG8D8s3zy5hFS0elq7VYFGmm_txyGt/view?usp=sharing): Created a cross-platform mobile app using Flutter for Bengaluru Metro, facilitating online payments and contactless travel with QR codes, backed by Firebase.
 
 ## Interests/Activities
