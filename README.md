@@ -10,7 +10,7 @@ I am currently pursuing a Master of Science in Computer Science at Northeastern 
 - 🌱 I’m currently learning Kotlin, advanced full-stack development techniques, and MongoDB
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions
 - 💬 Ask me about algorithms, mobile app development, and web development
-- 📄 [Check out my portfolio](https://wadhwanid.sites.northeastern.edu)
+- 📄 [Check out my portfolio](https://diyawadhwani-portfolio.netlify.app/)
 - ⚡ Fun fact: I love creating mobile applications
 
 
