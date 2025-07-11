@@ -1,83 +1,104 @@
-# Hi there, I'm Diya Wadhwani 👋
+# Hi there, I'm Diya Wadhwani 👋  
+**Full-Stack Software Engineer | Building Scalable, User-Centered Solutions**
 
-Welcome to my GitHub profile! I'm passionate about software development and love exploring new technologies.
+🎓 MSCS @ Northeastern University (May 2025)  
+🚀 Passionate about backend architecture, developer-friendly APIs, and intuitive web/mobile design
 
-## About Me
+---
 
-I am currently pursuing a Master of Science in Computer Science at Northeastern University, Oakland, focusing on developing full-stack projects and mobile applications. With hands-on experience as a Full-Stack and Backend Developer, I continue to enhance my skills in React, Node.js, and REST API development.
+## 🔎 About Me
 
-- 🔭 I’m currently working on [ClubConnect](#projects)
-- 🌱 I’m currently learning Kotlin, advanced full-stack development techniques, and MongoDB
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions
-- 💬 Ask me about algorithms, mobile app development, and web development
-- 📄 [Check out my portfolio](https://diyawadhwani-portfolio.netlify.app/)
-- ⚡ Fun fact: I love creating mobile applications
+I turn complex ideas into clean, scalable software — and love collaborating to make technology more human.
 
+- 💡 Recent work includes full-stack platforms like [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo), [Job Junction](https://github.com/DiyaWadhwani/JobJunction), and [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)
+- 🔧 Backend-focused: Node.js, Express, Spring Boot, REST APIs, PostgreSQL, MongoDB, Firebase
+- 🌐 Strong in full-stack delivery — React, TypeScript, Prisma, Redis, cloud deployments (AWS, Render, Vercel)
+- 🧠 TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, and problem-solving
+- 🏆 Honored with the **Outstanding Network Student Award** + inducted into Northeastern’s **Laurel & Scroll 100**
 
-## Connect with Me
+I’m currently seeking **full-time roles** in backend, full-stack, or platform engineering. Let’s connect!
 
-- [LinkedIn](https://www.linkedin.com/in/diya-wadhwani)
--  📫 [wadhwani.d@northeastern.edu](mailto:wadhwani.d@northeastern.edu) OR [wadhwanidiya23@gmail.com](mailto:wadhwanidiya23@gmail.com)
+## 🛠 Tech Stack
 
-## Technical Knowledge
+**Languages**  
+`Java` • `JavaScript` • `TypeScript` • `Kotlin` • `Dart` • `Swift` • `C/C++`
 
-### Languages / Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/EJS-%230A0A0A.svg?style=for-the-badge&logo=ejs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
+**Backend**  
+`Node.js` • `Express.js` • `Spring Boot` • `Hibernate` • `REST APIs` • `OAuth 2.0` • `Redis`
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-%2330345E.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+**Frontend & Mobile**  
+`React` • `Flutter` • `Angular` • `HTML/CSS` • `EJS` • `Webflow`
 
-### Web Technologies / Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Webflow-%234500EF.svg?style=for-the-badge&logo=webflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+**Databases**  
+`PostgreSQL` • `MongoDB` • `MySQL` • `Firebase` • `Prisma` • `DynamoDB` • `Hive` • `AWS RDS` • `SQLite`
 
-### IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DB%20Browser-%23000357.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
-</p>
+**Cloud & DevOps**  
+`AWS` • `Docker` • `CI/CD` • `Render` • `Vercel`
 
-## Projects
+**Tools & Practices**  
+`Git` • `Postman` • `Jira` • `Jenkins` • `Agile` • `Scrum` • `Wireshark`
 
-- [**ClubConnect (Oct 2024)**](https://github.com/DiyaWadhwani/ClubConnect): Designed a web-based system for managing student-run clubs, enabling leaders to register clubs, manage memberships, schedule events, and onboard new members.
-- [**JobJunction (April 2024)**](https://github.com/DiyaWadhwani/JobJunction): Developed a full-stack application using React for job listings, featuring user login and profile management with Prisma and Express backend. Deployed on Vercel and Render.
-- [**RecipeHub (March 2024)**](https://github.com/DiyaWadhwani/RecipeHub-FunctionalReact): Created a React-based website allowing users to view, create, modify, and fork recipes, utilizing Firebase for backend and deployment.
-- [**Shopping Cart Application (March 2024)**](https://github.com/DiyaWadhwani/ShoppingCartApplication-React): Built a React shopping cart application for browsing, adding, editing, and deleting products, using Firebase for backend operations and deployment.
-- [**MoodMaster (Dec 2023)**](https://github.com/DiyaWadhwani/MoodMaster): Developed an iOS mobile app to help users manage their moods through reading excerpts and journaling, powered by Firebase backend.
-- [**Metro Run Application (July 2021)**](https://github.com/DiyaWadhwani/Flutter-MetroRunFinal): Created a cross-platform mobile app using Flutter for Bengaluru Metro, facilitating online payments and contactless travel with QR codes, backed by Firebase.
+## 💻 Projects
 
-## Interests/Activities
+### [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo)  
+A platform to manage student-run clubs — registrations, memberships, roles, and event scheduling.  
+**Tech:** `Node.js` • `Express.js` • `MongoDB` • `Redis` • `EJS`
 
-- **President and Founder**, Junoon, Northeastern University, Oakland, 2023 – Present
-- **Technical Manager**, Google Developer Groups On Campus, Northeastern University, Oakland, Present
-- **Graduate Student Chair**, Associated Students of Northeastern University, Oakland, Present
-- **Publicity Head**, TEDx MSRIT, MS Ramaiah Institute of Technology, Karnataka, 2019 – 2020
+### [Job Junction](https://github.com/DiyaWadhwani/JobJunction)  
+Full-stack job portal with secure login, job saving, and user profiles.  
+**Tech:** `React` • `Node.js` • `Express.js` • `Prisma` • `Auth0` • `Vercel` • `Render`
+
+### [Recipe Hub](https://github.com/DiyaWadhwani/RecipeHub-FunctionalReact)  
+GitHub-style collaborative recipe sharing — create, fork, and explore global recipes.  
+**Tech:** `React` • `Firebase` • `JavaScript` • `CSS`
+
+### [Metro Run](https://github.com/DiyaWadhwani/Flutter-MetroRunFinal)  
+Hybrid mobile app for Bangalore Metro ticketing and navigation.  
+**Tech:** `Flutter` • `Dart`
+
+### [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)  
+iOS app for mood-based journaling, story discovery, and voice recording.  
+**Tech:** `Swift` • `Firebase`
+
+### [Shopping Cart App](https://github.com/DiyaWadhwani/ShoppingCartApplication-React)  
+Simple React + Firebase app for adding, editing, and managing products.  
+**Tech:** `React` • `Firebase` • `Bootstrap`
+
+## 🏆 Leadership & Recognition
+
+### Outstanding Network Student Award – Northeastern University  
+Selected for leadership, peer mentorship, and cultural contributions to the Oakland campus.  
+- Supported 300+ students as a TA and Lab Leader  
+- Launched Junoon's Holi & Diwali events for 500+ attendees  
+- Proposed and helped implement campus shuttle service  
+🔗 [View award](https://outstandingawards.sites.northeastern.edu/2025-winners/)
+
+### Laurel & Scroll 100 – Society of Distinction  
+Honors top 100 graduate students exemplifying leadership, innovation, and academic excellence.  
+- Recognized for Junoon, GDG workshops, and nonprofit tech work  
+- Reflected Northeastern’s mission of real-world impact  
+🔗 [View distinction](https://studentengagement.northeastern.edu/distinction/)
+
+### Leadership Roles  
+- 🎓 **Graduate Student Chair** – Represented MSCS student voices at Oakland campus  
+- 🧑‍🎓 **Founder & President, Junoon** – Indian cultural club building inclusive community  
+- ⚙️ **Technical Manager, Google Developer Groups** – Led tech talks (Web Perf, GenAI, etc.)
+
+## 📬 Let's Connect
+
+I love collaborating on meaningful software — whether it's building platforms, mentoring developers, or solving backend challenges.
+
+- 💌 Email: [wadhwanidiya23@gmail.com](mailto:wadhwanidiya23@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/diya-wadhwani](https://www.linkedin.com/in/diya-wadhwani)  
+- 💻 Portfolio: [diyawadhwani-portfolio.netlify.app](https://diyawadhwani-portfolio.netlify.app)  
+- 🧠 GitHub: [github.com/DiyaWadhwani](https://github.com/DiyaWadhwani)
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Profile Stats -->
+![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyaWadhwani&show_icons=true&theme=default&hide_title=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaWadhwani&layout=compact&hide=html,css&theme=default)
