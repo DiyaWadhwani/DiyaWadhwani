@@ -97,8 +97,8 @@ I love collaborating on meaningful software — whether it's building platforms,
 
 ## 📈 GitHub Stats
 
-<!-- GitHub Profile Stats -->
+<!-- Stats -->
 ![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyaWadhwani&show_icons=true&theme=default&hide_title=true)
 
-<!-- Top Languages -->
+<!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaWadhwani&layout=compact&hide=html,css&theme=default)
