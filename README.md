@@ -2,7 +2,8 @@
 **Full-Stack Software Engineer | Building Scalable, User-Centered Solutions**
 
 🎓 MSCS Graduate, Khoury College of Computer Sciences, Northeastern University
-🚀 Passionate about backend architecture, developer-friendly APIs, and intuitive web/mobile design
+
+Passionate about backend architecture, developer-friendly APIs, and intuitive web/mobile design
 
 ---
 
@@ -13,7 +14,7 @@ I turn complex ideas into clean, scalable software and love collaborating to mak
 - 💡 Recent work includes full-stack platforms like [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo), [Job Junction](https://github.com/DiyaWadhwani/JobJunction), and [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)  
 - 🔧 Backend-focused: Node.js, Express, Spring Boot, REST APIs, PostgreSQL, MongoDB, Firebase  
 - 🌐 Strong in full-stack delivery — React, TypeScript, Prisma, Redis, cloud deployments (AWS, Render, Vercel)  
-- 🧠 TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, and problem-solving  
+- 🧠 TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, Kotlin and problem-solving  
 - 🏆 Honored with the **Outstanding Network Student Award** + inducted into Northeastern’s **Laurel & Scroll 100**
 
 I’m currently seeking **full-time roles** in backend, full-stack, or platform engineering — let’s connect!
@@ -32,7 +33,7 @@ I’m currently seeking **full-time roles** in backend, full-stack, or platform 
 `React` • `Flutter` • `Angular` • `HTML/CSS` • `EJS` • `Webflow`
 
 **Databases**  
-`PostgreSQL` • `MongoDB` • `MySQL` • `Firebase` • `Prisma` • `DynamoDB` • `Hive` • `AWS RDS` • `SQLite`
+`PostgreSQL` • `MongoDB` • `MySQL` • `Firebase` • `Prisma` • `DynamoDB` • `Hive` • `AWS RDS` • `SQLite` • `DynamoDB`
 
 **Cloud & DevOps**  
 `AWS` • `Docker` • `CI/CD` • `Render` • `Vercel`
