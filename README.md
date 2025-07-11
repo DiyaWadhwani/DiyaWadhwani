@@ -1,7 +1,7 @@
 # Hi there, I'm Diya Wadhwani 👋  
 **Full-Stack Software Engineer | Building Scalable, User-Centered Solutions**
 
-🎓 MSCS @ Northeastern University (May 2025)  
+🎓 MSCS Graduate, Khoury College of Computer Sciences, Northeastern University
 🚀 Passionate about backend architecture, developer-friendly APIs, and intuitive web/mobile design
 
 ---
