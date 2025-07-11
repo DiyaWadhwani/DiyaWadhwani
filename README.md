@@ -8,7 +8,7 @@
 
 ## 🔎 About Me
 
-I turn complex ideas into clean, scalable software — and love collaborating to make technology more human.
+I turn complex ideas into clean, scalable software and love collaborating to make technology more human.
 
 - 💡 Recent work includes full-stack platforms like [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo), [Job Junction](https://github.com/DiyaWadhwani/JobJunction), and [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)  
 - 🔧 Backend-focused: Node.js, Express, Spring Boot, REST APIs, PostgreSQL, MongoDB, Firebase  
