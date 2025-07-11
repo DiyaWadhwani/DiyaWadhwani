@@ -10,13 +10,15 @@
 
 I turn complex ideas into clean, scalable software — and love collaborating to make technology more human.
 
-- 💡 Recent work includes full-stack platforms like [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo), [Job Junction](https://github.com/DiyaWadhwani/JobJunction), and [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)
-- 🔧 Backend-focused: Node.js, Express, Spring Boot, REST APIs, PostgreSQL, MongoDB, Firebase
-- 🌐 Strong in full-stack delivery — React, TypeScript, Prisma, Redis, cloud deployments (AWS, Render, Vercel)
-- 🧠 TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, and problem-solving
+- 💡 Recent work includes full-stack platforms like [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo), [Job Junction](https://github.com/DiyaWadhwani/JobJunction), and [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)  
+- 🔧 Backend-focused: Node.js, Express, Spring Boot, REST APIs, PostgreSQL, MongoDB, Firebase  
+- 🌐 Strong in full-stack delivery — React, TypeScript, Prisma, Redis, cloud deployments (AWS, Render, Vercel)  
+- 🧠 TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, and problem-solving  
 - 🏆 Honored with the **Outstanding Network Student Award** + inducted into Northeastern’s **Laurel & Scroll 100**
 
-I’m currently seeking **full-time roles** in backend, full-stack, or platform engineering. Let’s connect!
+I’m currently seeking **full-time roles** in backend, full-stack, or platform engineering — let’s connect!
+
+---
 
 ## 🛠 Tech Stack
 
@@ -38,51 +40,83 @@ I’m currently seeking **full-time roles** in backend, full-stack, or platform 
 **Tools & Practices**  
 `Git` • `Postman` • `Jira` • `Jenkins` • `Agile` • `Scrum` • `Wireshark`
 
+---
+
 ## 💻 Projects
 
 ### [ClubConnect](https://github.com/DiyaWadhwani/ClubConnect/tree/p2-mongo)  
-A platform to manage student-run clubs — registrations, memberships, roles, and event scheduling.  
-**Tech:** `Node.js` • `Express.js` • `MongoDB` • `Redis` • `EJS`
+Web platform for student-run club operations — registration, role management, and event scheduling.  
+**Tech:** `Node.js` • `Express.js` • `MongoDB` • `Redis` • `EJS` • `JavaScript`  
+- Built full-stack with RESTful APIs and server-side rendering  
+- Used Redis for caching frequent data and reducing DB calls by ~40%  
+- Designed complex MongoDB aggregation queries for analytics like club growth and event stats
+
+---
 
 ### [Job Junction](https://github.com/DiyaWadhwani/JobJunction)  
-Full-stack job portal with secure login, job saving, and user profiles.  
-**Tech:** `React` • `Node.js` • `Express.js` • `Prisma` • `Auth0` • `Vercel` • `Render`
+Full-stack job portal with authentication, job search, and saved jobs.  
+**Tech:** `React` • `Node.js` • `Express.js` • `Prisma ORM` • `PostgreSQL` • `Auth0` • `Vercel` • `Render`  
+- Built secure Auth0-based login system  
+- Used Prisma for typed DB access and schema modeling  
+- Integrated external job data via RapidAPI  
+- Deployed with CI using Vercel (frontend) and Render (backend)
+
+---
 
 ### [Recipe Hub](https://github.com/DiyaWadhwani/RecipeHub-FunctionalReact)  
-GitHub-style collaborative recipe sharing — create, fork, and explore global recipes.  
-**Tech:** `React` • `Firebase` • `JavaScript` • `CSS`
+GitHub-style recipe platform — create, fork, edit, and browse recipes.  
+**Tech:** `React` • `Firebase (Auth, Realtime DB, Hosting)` • `JavaScript` • `CSS`  
+- Enabled recipe forking and user-specific profiles  
+- Used Firebase Auth for secure logins  
+- Deployed with Firebase Hosting (99.9% uptime)
+
+---
 
 ### [Metro Run](https://github.com/DiyaWadhwani/Flutter-MetroRunFinal)  
-Hybrid mobile app for Bangalore Metro ticketing and navigation.  
-**Tech:** `Flutter` • `Dart`
+Cross-platform app for digital metro ticketing and QR-based validation.  
+**Tech:** `Flutter` • `Dart` • `Firebase Realtime DB` • `QR Scanner`  
+- Implemented single-codebase app for Android/iOS  
+- Designed metro fare calculator + QR scan validator  
+- Firebase backend handled ticket creation + travel history
+
+---
 
 ### [Mood Master](https://github.com/DiyaWadhwani/MoodMaster)  
-iOS app for mood-based journaling, story discovery, and voice recording.  
-**Tech:** `Swift` • `Firebase`
+iOS app for mood-based journaling, voice notes, and personalized content.  
+**Tech:** `Swift` • `SwiftUI` • `Firebase (Auth, Storage, Firestore)`  
+- Supported mood-tagged journal entries + audio notes  
+- Synced data using Firestore + Storage for multimedia support  
+- Built in collaboration with peers across two NU campuses
+
+---
 
 ### [Shopping Cart App](https://github.com/DiyaWadhwani/ShoppingCartApplication-React)  
-Simple React + Firebase app for adding, editing, and managing products.  
-**Tech:** `React` • `Firebase` • `Bootstrap`
+React shopping interface for browsing, editing, and deleting products.  
+**Tech:** `React` • `Firebase` • `Bootstrap` • `Vite`  
+- Built responsive UI with Bootstrap + Vite  
+- Used Firebase for real-time product sync and deployment  
+- Implemented cart total calculation + dynamic updates
+
+---
 
 ## 🏆 Leadership & Recognition
 
 ### Outstanding Network Student Award – Northeastern University  
-Selected for leadership, peer mentorship, and cultural contributions to the Oakland campus.  
-- Supported 300+ students as a TA and Lab Leader  
-- Launched Junoon's Holi & Diwali events for 500+ attendees  
-- Proposed and helped implement campus shuttle service  
+- Led cultural programming (Holi, Diwali) reaching 500+ students  
+- TA for 300+ students across CS2510/5010  
+- Launched a campus shuttle for grad commuters  
 🔗 [View award](https://outstandingawards.sites.northeastern.edu/2025-winners/)
 
 ### Laurel & Scroll 100 – Society of Distinction  
-Honors top 100 graduate students exemplifying leadership, innovation, and academic excellence.  
-- Recognized for Junoon, GDG workshops, and nonprofit tech work  
-- Reflected Northeastern’s mission of real-world impact  
+- Recognized for academic leadership, global service, and innovation  
 🔗 [View distinction](https://studentengagement.northeastern.edu/distinction/)
 
 ### Leadership Roles  
-- 🎓 **Graduate Student Chair** – Represented MSCS student voices at Oakland campus  
-- 🧑‍🎓 **Founder & President, Junoon** – Indian cultural club building inclusive community  
-- ⚙️ **Technical Manager, Google Developer Groups** – Led tech talks (Web Perf, GenAI, etc.)
+- 🎓 **Graduate Student Chair**  
+- 🇮🇳 **President & Founder – Junoon** (Indian cultural club)  
+- ⚙️ **Technical Manager – Google Developer Groups On Campus**
+
+---
 
 ## 📬 Let's Connect
 
@@ -95,10 +129,4 @@ I love collaborating on meaningful software — whether it's building platforms,
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- Stats -->
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyaWadhwani&show_icons=true&theme=default&hide_title=true)
-
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaWadhwani&layout=compact&hide=html,css&theme=default)
+> *“My favorite bug is the one I just fixed.”*
