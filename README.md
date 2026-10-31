@@ -9,13 +9,13 @@ Passionate about backend architecture, platform engineering, and building develo
 
 ## 🔎 About Me
 
-I build scalable software systems that balance technical rigor with thoughtful design. My work spans full-stack development, distributed systems, and cloud infrastructure—with a focus on reliability, performance, and developer experience.
+I build scalable software systems that balance technical rigor with thoughtful design. My work spans full-stack development, distributed systems, and cloud infrastructure, with a focus on reliability, performance, and developer experience.
 
 - 🏥 Currently a **Software Engineer at Techmentee** (contract, remote), where I built a hospital management system with FHIR APIs, PHI audit trails, and database-level scheduling rules
 - 💼 Seeking **full-time roles** in backend, full-stack, or platform engineering
 - 🔧 **Backend-focused:** Node.js, NestJS, Express, Spring Boot, GraphQL, REST APIs, PostgreSQL, MongoDB, Redis
 - 🌐 **Full-stack delivery:** React, TypeScript, Prisma, Docker, AWS, CI/CD pipelines
-- 🧠 **Teaching experience:** TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, and software design
+- 🧠 **Teaching experience:** TA + Lab Leader at Northeastern, mentored 300+ students in Java, React, and software design
 - 🏆 **Honored with:** Outstanding Network Student Award + Laurel & Scroll 100 (Northeastern Society of Distinction)
 
 ---
@@ -162,20 +162,20 @@ iOS mental wellness app with mood tracking, journaling, and voice notes.
 
 ## 🏆 Leadership & Recognition
 
-**Outstanding Network Student Award – Northeastern University**  
+**Outstanding Network Student Award, Northeastern University**  
 Recognized for academic leadership, cultural programming (Holi, Diwali reaching 500+ students), and launching campus shuttle service for graduate commuters.  
 🔗 [View Award](https://outstandingawards.sites.northeastern.edu/2025-winners/)
 
-**Laurel & Scroll 100 – Society of Distinction**  
+**Laurel & Scroll 100 (Society of Distinction)**  
 Inducted for academic excellence, global service, and innovation.  
 🔗 [View Distinction](https://studentengagement.northeastern.edu/distinction/)
 
 **Leadership Roles**  
-- 🧑‍💻 Engineering Manager – One Community (led a team of 7 engineers, 110+ PRs at a ~95% merge rate)  
+- 🧑‍💻 Engineering Manager, One Community (led a team of 7 engineers, 110+ PRs at a ~95% merge rate)  
 - 🎓 Graduate Student Chair  
-- 🇮🇳 President & Founder – Junoon (Indian cultural club)  
-- ⚙️ Technical Manager – Google Developer Groups On Campus  
-- 🧑‍🏫 Teaching Assistant & Lab Leader – Mentored 300+ students in Java, React, Kotlin
+- 🇮🇳 President & Founder of Junoon (Indian cultural club)  
+- ⚙️ Technical Manager, Google Developer Groups On Campus  
+- 🧑‍🏫 Teaching Assistant & Lab Leader, mentored 300+ students in Java, React, Kotlin
 
 ---
 
