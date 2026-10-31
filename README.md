@@ -11,8 +11,9 @@ Passionate about backend architecture, platform engineering, and building develo
 
 I build scalable software systems that balance technical rigor with thoughtful design. My work spans full-stack development, distributed systems, and cloud infrastructure—with a focus on reliability, performance, and developer experience.
 
-- 💼 Currently seeking **full-time roles** in backend, full-stack, or platform engineering
-- 🔧 **Backend-focused:** Node.js, NestJS, Spring Boot, GraphQL, REST APIs, PostgreSQL, MongoDB, Redis
+- 🏥 Currently a **Software Engineer at Techmentee** (contract, remote), where I built a hospital management system with FHIR APIs, PHI audit trails, and database-level scheduling rules
+- 💼 Seeking **full-time roles** in backend, full-stack, or platform engineering
+- 🔧 **Backend-focused:** Node.js, NestJS, Express, Spring Boot, GraphQL, REST APIs, PostgreSQL, MongoDB, Redis
 - 🌐 **Full-stack delivery:** React, TypeScript, Prisma, Docker, AWS, CI/CD pipelines
 - 🧠 **Teaching experience:** TA + Lab Leader at Northeastern — mentored 300+ students in Java, React, and software design
 - 🏆 **Honored with:** Outstanding Network Student Award + Laurel & Scroll 100 (Northeastern Society of Distinction)
@@ -37,27 +38,45 @@ I build scalable software systems that balance technical rigor with thoughtful d
 `AWS (ECS, Fargate, RDS, S3, SageMaker)` • `Docker` • `CI/CD (GitHub Actions, CodePipeline)` • `Render` • `Vercel`
 
 **Tools & Practices**  
-`Git` • `Postman` • `Jira` • `Jenkins` • `Agile/Scrum` • `CloudWatch` • `Wireshark`
+`Git` • `Postman` • `Jira` • `Jenkins` • `Agile/Scrum` • `CloudWatch` • `Wireshark` • `Playwright` • `OpenAPI` • `FHIR R4` • `Kafka` • `Kubernetes` • `Go`
 
 ---
 
 ## 💻 Featured Projects
 
-### [Feature Flag Console](https://github.com/DiyaWadhwani/FeatureFlagDashboard)  
-Production-style feature management platform with audit trail and real-time control.  
-**Tech:** `TypeScript` • `React` • `NestJS` • `GraphQL` • `Apollo Client` • `Prisma` • `PostgreSQL` • `Tailwind CSS`  
-- Built centralized platform for runtime feature control without redeployment
-- Designed GraphQL API with audit trail tracking all configuration changes (who, what, when, why)
-- Created real-time dashboard with click-to-filter audit UI optimized for incident response
+### Hospital Management System (Techmentee, private client project)  
+Hospital system that carries one visit from front-desk booking through consultation, lab, radiology, pharmacy, and invoice.  
+**Tech:** `TypeScript` • `Express` • `React` • `PostgreSQL` • `Docker` • `GitHub Actions` • `Playwright`  
+- Prevented double-booked appointments at the database level with PostgreSQL exclusion constraints, verified by tests that race concurrent requests
+- Cut patient search latency from 118 ms to 7 ms on a 50,000-patient dataset (local benchmark) with pg_trgm GIN indexes
+- Built a 10-role access model with patient-scoped row-level access and a PHI access audit trail
+- Exposed a read-only FHIR R4 API that passed the official HL7 validator with 0 errors
+
+---
+
+### [Gatekeeper (Feature Flag Platform)](https://github.com/DiyaWadhwani/FeatureFlagDashboard)  
+Runtime feature flag platform with an audit trail, AI risk analysis, and real-time control.  
+**Tech:** `TypeScript` • `React` • `NestJS` • `GraphQL` • `Apollo Client` • `Prisma` • `PostgreSQL` • `Kafka` • `Go` • `Kubernetes` • `Anthropic Claude API`  
+- Built a GraphQL API and real-time dashboard for runtime feature control without redeployment
+- Integrated the Anthropic Claude API for an AI Risk Advisor on every flag toggle and an AI Audit Summarizer with server-side caching
+- Designed an event-driven Kafka pipeline with a standalone Go consumer, plus Kubernetes manifests with HPA and KEDA lag-based scaling
 - Deployed full-stack: frontend (Vercel), backend (Render), serverless PostgreSQL (Neon)  
 🔗 [Live Demo](https://feature-flag-console.vercel.app)
+
+---
+
+### Wingman (AI Job Application Agent, in progress)  
+Chrome extension and backend that assess job postings against a personal ATS ruleset and generate tailored resumes and cover letters.  
+**Tech:** `React` • `TypeScript` • `NestJS` • `Prisma` • `PostgreSQL` • `Anthropic Claude API` • `Chrome Extension (Manifest V3)`  
+- Built a Chrome extension that reads the active job posting and returns a Claude-powered Strong Apply / Apply / Skip verdict with matched keywords and visa risk
+- Built a resume and cover letter pipeline on the Anthropic Claude API, with a question cache for Greenhouse, Lever, and Workday forms
 
 ---
 
 ### [AWS Café Website](https://github.com/DiyaWadhwani/AWSCafeWebsite)  
 Cloud-native microservices platform demonstrating containerized deployment on AWS.  
 **Tech:** `Node.js` • `Docker` • `AWS ECS Fargate` • `RDS` • `CodePipeline` • `CloudWatch`  
-- Deployed Dockerized microservices with zero-downtime blue/green deployments
+- Deployed Dockerized microservices with zero-downtime deployments
 - Automated CI/CD using AWS CodePipeline and CodeDeploy
 - Integrated CloudWatch for monitoring and RDS for persistent storage
 
@@ -116,7 +135,7 @@ Social recipe platform with forking, editing, and collaboration features.
 **Tech:** `React` • `Firebase (Auth, Realtime DB, Hosting)` • `Cypress`  
 - Enabled recipe forking for collaborative cooking
 - Built Cypress E2E tests for robust flows (posting, editing, commenting)
-- Deployed with Firebase Hosting achieving 99.9% uptime  
+- Deployed with Firebase Hosting  
 🔗 [Demo Video](https://youtu.be/jyczAmZN51g?si=3sJrAgyAZGXG_z8h)
 
 ---
@@ -152,6 +171,7 @@ Inducted for academic excellence, global service, and innovation.
 🔗 [View Distinction](https://studentengagement.northeastern.edu/distinction/)
 
 **Leadership Roles**  
+- 🧑‍💻 Engineering Manager – One Community (led a team of 7 engineers, 110+ PRs at a ~95% merge rate)  
 - 🎓 Graduate Student Chair  
 - 🇮🇳 President & Founder – Junoon (Indian cultural club)  
 - ⚙️ Technical Manager – Google Developer Groups On Campus  
